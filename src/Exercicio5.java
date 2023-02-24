@@ -1,8 +1,8 @@
 /*
 
-FaÁa um programa em JAVA, declarando uma vari·vel do tipo inteiro (int), 
-atribua um valor qualquer a esta vari·vel, 
-depois mostre o valor desta vari·vel em uma mensagem.
+Fa√ßa um programa em JAVA, declarando uma vari√°vel do tipo inteiro (int), 
+atribua um valor qualquer a esta vari√°vel, 
+depois mostre o valor desta vari√°vel em uma mensagem.
 
 
 
@@ -10,7 +10,7 @@ depois mostre o valor desta vari·vel em uma mensagem.
 */
 
 
-import javax.swing.JOptionPane;
+import javax.swing.*;
 
 public class Exercicio5 {
 

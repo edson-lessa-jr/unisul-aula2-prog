@@ -1,28 +1,28 @@
 /*
 
-FaÁa um programa em JAVA declarando uma vari·vel chamada nome,  e siga os seguintes passos:
+Fa√ßa um programa em JAVA declarando uma vari√°vel chamada nome,  e siga os seguintes passos:
 
-1 ñ Atribua o valor ìJo„oî a esta vari·vel
-2 ñ Mostre o valor da vari·vel nome em uma mensagem
-3 ñ Mude o valor da vari·vel nome para outro valor qualquer
-4 - Mostre o valor da vari·vel nome em uma mensagem seguindo o seguinte modelo
-    O valor da vari·vel È: <valor inserido no passo 3> 
+1 ‚Äì Atribua o valor ‚ÄúJo√£o‚Äù a esta vari√°vel
+2 ‚Äì Mostre o valor da vari√°vel nome em uma mensagem
+3 ‚Äì Mude o valor da vari√°vel nome para outro valor qualquer
+4 - Mostre o valor da vari√°vel nome em uma mensagem seguindo o seguinte modelo
+    O valor da vari√°vel √©: <valor inserido no passo 3> 
 
 
 
 */
- 
 
-import javax.swing.JOptionPane;
+
+import javax.swing.*;
 
 public class Exercicio4 {
 
     public static void main(String[] args) {
-	       String nome;
-           nome = "Jo„o";		   
-           JOptionPane.showMessageDialog(null, nome);
-		   nome = "Maria";
-		   JOptionPane.showMessageDialog(null, "O valor da vari·vel È: " + nome);
+        String nome;
+        nome = "Jo√£o";
+        JOptionPane.showMessageDialog(null, nome);
+        nome = "Maria";
+        JOptionPane.showMessageDialog(null, "O valor da vari√°vel √©: " + nome);
 
     }
 
